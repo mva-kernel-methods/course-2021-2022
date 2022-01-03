@@ -3,12 +3,13 @@ type: lecture
 date: 2022-01-26T8:00:00+1:30
 title: Kernel ridge and logistic regression
 tldr: "Application of kernel methods to regression"
-slides: 83-114
-thumbnail: /static_files/presentations/Lecture_3.jpg
-links: 
-    - url: https://www.youtube.com/watch?v=BJj3auMlt8U&feature=youtu.be
-      name: Video 1
----
-**Additional Materials:**
-- [Draft solution of the homework](/static_files/homeworks/sol_hw2.pdf)
 
+thumbnail: /static_files/presentations/Lecture_3.jpg
+# slides: 83-114
+# links: 
+#     - url: https://www.youtube.com/watch?v=BJj3auMlt8U&feature=youtu.be
+#       name: Video 1
+---
+<!-- **Additional Materials:**
+- [Draft solution of the homework](/static_files/homeworks/sol_hw2.pdf)
+ -->
