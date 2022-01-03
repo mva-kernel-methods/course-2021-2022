@@ -21,8 +21,8 @@ layout: page
         <strong>Title: {{ lecture.title }}</strong>
         <br>
         <strong>Description:</strong> {{ lecture.tldr }}
-        
-        {% if lecture.slides %}
+        {% if lecture.display %}
+        {% if lecture.slides  %}
         <br/>
         <strong><a href="/static_files/materials/slides.pdf"> Slides:</a> Pages {{lecture.slides}}
         </strong>
@@ -39,6 +39,7 @@ layout: page
         <div class="markdown-content" style="margin-top: 3px;">
         {{ lecture.content }}
         </div>
+        {% endif %}
         {% endif %}
     </div>
 </div>
