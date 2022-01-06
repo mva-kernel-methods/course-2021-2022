@@ -1,10 +1,11 @@
 ---
 type: lecture
 date: 2022-02-02T8:00:00+1:30
-title:  Large-margin classifiers, SVMs
+title:  Lecture 4 - Large-margin classifiers, SVMs
 tldr: "Application of kernel methods to classification"
-slides: 115-165
 thumbnail: /static_files/presentations/Lecture_4.jpg
+display: false
+slides: 115-165
 links: 
     - url: https://www.youtube.com/watch?v=HjW_atNFYbo&feature=youtu.be
       name: Video 1

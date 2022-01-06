@@ -18,4 +18,5 @@ The goal of this course is to present the mathematical foundations of kernel met
 
 
 ## Evaluation
-The final note will be a weighted average of a data challenge (40%), a final homework (40%) and regular quizzes every week (20%).
+To be announced! 
+<!-- The final note will be a weighted average of a data challenge (40%), a final homework (40%) and regular quizzes every week (20%). -->

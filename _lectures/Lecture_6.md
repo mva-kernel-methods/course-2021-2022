@@ -1,10 +1,11 @@
 ---
 type: lecture
 date: 2022-02-23T8:00:00+1:30
-title: Green, Mercer, Herglotz, Bochner and friends
+title: Lecture 6 - Green, Mercer, Herglotz, Bochner and friends
 tldr: "Some kernel theory."
-slides: 203-310
 thumbnail: /static_files/presentations/Lecture_1.jpg
+display: false
+slides: 203-310
 links: 
     - url: https://www.youtube.com/watch?v=9uV0vEW782s&feature=youtu.be
       name: Video 1

@@ -1,10 +1,11 @@
 ---
 type: lecture
 date: 2022-03-16T8:00:00+1:30
-title: Deep kernel machines
-tldr: "When kernel methods meet deep learning"
-slides: 630-714
+title: Lecture 9 - Deep kernel machines and large-scale learning with kernels
+tldr: "Scaling up kernel methods to large problems"
 thumbnail: /static_files/presentations/Lecture_9.jpg
+display: false
+slides: 630-714
 links: 
     - url: https://youtu.be/6mvUxSpGxgo
       name: Video 1
