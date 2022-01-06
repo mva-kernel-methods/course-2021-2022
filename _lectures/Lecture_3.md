@@ -10,5 +10,4 @@ links:
       name: Video 1
 ---
 **Additional Materials:**
-- [Draft solution of the homework](/static_files/homeworks/sol_hw2.pdf)
 
