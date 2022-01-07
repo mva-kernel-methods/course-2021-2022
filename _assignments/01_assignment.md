@@ -7,5 +7,5 @@ due_event:
     type: due
     date: 2022-01-19T23:59:00+3:30
     description: 'Assignment #1 due'
-display: true
+display: false
 ---

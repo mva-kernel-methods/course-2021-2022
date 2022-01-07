@@ -6,7 +6,9 @@
 <div class="col col-2" data-label="Description">
     {{ include.event.title }}
     <div class="schedule-lecture-links">
-    {% include lecture_links.html lecture=include.event %}
+{% if include.event.display %}
+   {% include lecture_links.html lecture=include.event %} 
+{% endif %}
     </div>
 </div>
 <div class="col col-4 markdown-content" data-label="Course Material">
@@ -20,7 +22,11 @@
         {% endfor %}
     </ul>
     {% endif %} -->
-    {% if include.event.content != '' %}
+
+    {% if include.event.display %}
+
+     {% if include.event.content != '' %}
     {{ event.content }}
+    {% endif %}
     {% endif %}
 </div>
