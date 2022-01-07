@@ -7,8 +7,10 @@ thumbnail: /static_files/presentations/Lecture_9.jpg
 display: false
 slides: 630-714
 links: 
-    - url: https://youtu.be/6mvUxSpGxgo
+    - url: https://youtu.be/H3e9Jud7Y_U
       name: Video 1
+    - url: https://youtu.be/6mvUxSpGxgo
+      name: Video 2
 ---
 **Additional Materials:**
 - [Deep learning and stability](https://youtu.be/ois8qSzDzr0)

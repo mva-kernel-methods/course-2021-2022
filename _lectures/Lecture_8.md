@@ -8,10 +8,7 @@ thumbnail: /static_files/presentations/Lecture_8.jpg
 display: false
 slides: 551-621
 links: 
-    - url: https://youtu.be/PN1qZAQ8xtA
-      name: Video 1
-    - url: https://youtu.be/H3e9Jud7Y_U
-      name: Video 2
+  
 ---
 
 **Additional Videos:**
