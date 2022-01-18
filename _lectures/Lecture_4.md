@@ -13,5 +13,5 @@ links:
       name: Video 2
 ---
 **Additional Materials:**
-- [Bartlett et al. 2003](/static_files/materials/barlett.pdf)
+- [Bartlett et al. 2003](/course-2021-2022/static_files/materials/barlett.pdf)
 

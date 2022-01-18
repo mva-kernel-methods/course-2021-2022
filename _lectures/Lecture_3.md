@@ -11,5 +11,5 @@ links:
     - url: https://www.youtube.com/watch?v=BJj3auMlt8U&feature=youtu.be
       name: Video 1
 ---
-**Additional Materials:**
+
 

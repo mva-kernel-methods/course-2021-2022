@@ -13,6 +13,6 @@ links:
       name: Video 2
 ---
 **Additional Materials:**
-- [Uniqueness of the RKHS](/static_files/materials/uniquenessRKHS.pdf)
-- [Aronszajn's theorem](/static_files/materials/aronszajn.pdf)
+- [Uniqueness of the RKHS](/course-2021-2022/static_files/materials/uniquenessRKHS.pdf)
+- [Aronszajn's theorem](/course-2021-2022/static_files/materials/aronszajn.pdf)
 
