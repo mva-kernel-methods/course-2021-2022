@@ -5,7 +5,7 @@ title: 'Assignment #3'
 pdf: /static_files/homeworks/hw3.pdf
 due_event: 
     type: due
-    date: 2022-02-23T23:59:00+3:30
+    date: 2022-02-23T15:00:00+3:30
     description: 'Assignment #3 due'
 display: false
 ---
