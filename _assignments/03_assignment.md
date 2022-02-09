@@ -2,7 +2,7 @@
 type: assignment
 date: 2022-02-09T8:01:00+1:30
 title: 'Assignment #3'
-pdf: /static_files/homeworks/hw3.pdf
+pdf: /static_files/homeworks/exercices_3.pdf
 attachment: /static_files/homeworks/homework_3.zip
 due_event: 
     type: due
