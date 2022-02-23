@@ -4,7 +4,7 @@ date: 2022-03-02T8:00:00+1:30
 title: Lecture 7 - Kernels for graphs, kernels on graphs
 tldr: "Some applications of kernel methods to graph structured data."
 thumbnail: /static_files/presentations/Lecture_7.jpg
-display: false
+display: true
 slides: 436-549
 links: 
     - url: https://youtu.be/RioMipTmHhQ
@@ -14,4 +14,3 @@ links:
 ---
 **Additional Videos:**
 - [Kernels for biologial sequences ](https://youtu.be/8gVPPdXqyP8)
-

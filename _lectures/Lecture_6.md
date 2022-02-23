@@ -17,5 +17,6 @@ links:
 ---
 **Additional Videos:**
 - [Statistical convergence rates](https://youtu.be/yjHwZfcUsKA)
+- [Shorter version of Green, Mercer and Bochner](https://www.youtube.com/watch?v=wA44d5kaEDs)
 
 
