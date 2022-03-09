@@ -6,8 +6,13 @@ tldr: "Representing probability distributions using kernels"
 
 thumbnail: /static_files/presentations/Lecture_8.jpg
 display: false
-slides: 551-621
+slides: 543-598
 links: 
+  
+     - url: https://youtu.be/RioMipTmHhQ
+      name: Video 1
+    - url: https://youtu.be/koLfZP5H7pw
+      name: Video 2
   
 ---
 
